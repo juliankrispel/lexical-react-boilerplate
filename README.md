@@ -3,6 +3,8 @@
 Contains:
 
 - ✅ tailwindcss
+- ✅ Basic setup for Editor
+- ✅ Example plugin
 - ✅ lexical-js as a text editing library
 - ✅ react js
 - ✅ vitejs for 0-config development and bundling
