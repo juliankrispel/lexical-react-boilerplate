@@ -1,0 +1,40 @@
+{
+  "name": "lexical-react-boilerplate",
+  "author": "Julian Krispel",
+  "version": "0.0.1",
+  "repository": "https://github.com/juliankrispel/lexical-react-boilerplate",
+  "license": "MIT",
+  "main": "src/Editor/Editor.tsx",
+  "scripts": {
+    "start": "vite",
+    "test": "echo 'not implemented'",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@headlessui/react": "^1.7.2",
+    "@heroicons/react": "^2.0.11",
+    "@lexical/clipboard": "^0.7.6",
+    "@lexical/mark": "^0.7.6",
+    "@lexical/react": "^0.7.6",
+    "@lexical/rich-text": "^0.7.6",
+    "@lexical/selection": "^0.7.6",
+    "@lexical/utils": "^0.7.6",
+    "@types/lodash": "^4.14.185",
+    "lexical": "^0.7.6",
+    "lodash": "^4.17.21",
+    "nanoid": "^4.0.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-use-localstorage": "^3.5.3",
+    "tailwindcss": "^3.1.7"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.15",
+    "@types/react-dom": "^18.0.6",
+    "@vitejs/plugin-react": "^2.0.0",
+    "autoprefixer": "^10.4.8",
+    "typescript": "^4.6.4",
+    "vite": "^3.0.0"
+  }
+}
